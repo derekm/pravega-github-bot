@@ -47,10 +47,3 @@ You can then execute your native executable with: `./target/pravega-github-bot-1
 
 If you want to learn more about building native executables, please consult https://quarkus.io/guides/maven-tooling.html.
 
-## Provided Code
-
-### RESTEasy JAX-RS
-
-Easily start your RESTful Web Services
-
-[Related guide section...](https://quarkus.io/guides/getting-started#the-jax-rs-resources)
